@@ -1,6 +1,7 @@
 <a href="https://stock-bot-nextjs.vercel.app/">
   <h1 align="center">Stock Buy/Sell bot</h1>
   <h1> <a href="https://stock-bot-nextjs.vercel.app/" >Demo</a></h1>
+  this might be showing error which means I don't have free credit for Tokens. If you want to work with this repo and make your own API account on OpenAI than it works. Thanks for understanding
 </a>
 
 <p align="center">
